@@ -3,12 +3,10 @@
     <aside>
       首先介绍的是按键悬停动画，也就是在指针悬停时创建一个动画轮廓。该效果由
       BhautikBharadavato 开发，用来强调那些行为召唤（call-toaction）按键。
-      <br /><br />它很流畅，代码非常简单，可以缩短加载时间，还能轻松自定义。
-      <p>
-        <a href="https://codepen.io/davidicus/pen/emgQKJ" target="_blank"
-          >点击在线编辑查看效果</a
-        >
-      </p>
+      <br /><br />
+      它很流畅，代码非常简单，可以缩短加载时间，还能轻松自定义。
+      <br /><br />
+      <a href="https://codepen.io/davidicus/pen/emgQKJ" target="_blank">点击在线编辑查看效果</a>
     </aside>
     <div class="data-container">
       <span class="btn">Hover Me </span>
